@@ -9,7 +9,12 @@ To find the basepath of arduino on your PC, open the Arduino IDE and click File 
 
 ![image](https://user-images.githubusercontent.com/31904545/126867515-dc61a468-0e8d-4fa3-9aa3-18384a1f8cce.png)
 
-Then start a new sketch in your Arduino IDE.  Using the library is as simple as:
+From the example screenshot above, once the repo is cloned there should now be a folder ```C:\Users\morty\Documents\github\arduino\libraries\espWebServerOTAMqtt```
+
+That's it! You're ready to use the library! 
+
+
+Now create a blank project in your Arduino IDE.  Using the library is as simple as:
 ```
 #include <espWebServerOTAMqtt.h>
 
