@@ -3,7 +3,7 @@ An easy-to-use arduino library for creating an HTML webserver on your esp8266 th
 
 
 ## How to Use
-Copy this directory into your **arduino/libraries** folder. 
+Clone this repo into your **arduino/libraries** folder. 
 
 To find the basepath of arduino on your PC, open the Arduino IDE and click File -> Preferences:
 
